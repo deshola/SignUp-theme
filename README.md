@@ -2,4 +2,5 @@
 This is a basic Sign-up theme designed using Foundation 6 framework.
 
 
-Hi, do expect my contribution from time to time. This is really a smooth idea. Loving it already :)
+Hi, I love this project. Do expect vast contribution from me, from time to time. This is really a smooth idea. Loving it already :)
+
